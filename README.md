@@ -1,1 +1,1 @@
-# Web_API
+Licensed by: GitHub
